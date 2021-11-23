@@ -437,6 +437,8 @@
 
 .u-section-5 {
 	background-image: none;
+	background: rgb(0,233,255);
+	background: linear-gradient(0deg, rgba(0,233,255,1) 0%, rgba(231,0,255,1) 100%);
 }
 
 .u-section-5 .u-sheet-1 {
