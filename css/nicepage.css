@@ -31309,7 +31309,7 @@ a.u-link.u-text-hover-palette-1-light-3:hover {
 .u-text-palette-1-base,
 a.u-button-style.u-text-palette-1-base,
 a.u-button-style.u-text-palette-1-base[class*="u-border-"] {
-  color: black !important;
+  color: white !important;
 }
 a.u-button-style.u-text-palette-1-base:hover,
 a.u-button-style.u-text-palette-1-base[class*="u-border-"]:hover,
@@ -31319,7 +31319,7 @@ a.u-button-style.u-button-style.u-text-palette-1-base:active,
 a.u-button-style.u-button-style.u-text-palette-1-base[class*="u-border-"]:active,
 a.u-button-style.u-button-style.u-text-palette-1-base.active,
 a.u-button-style.u-button-style.u-text-palette-1-base[class*="u-border-"].active {
-  color: #1c1d34 !important;
+  color: white !important;
 }
 a.u-button-style:hover > .u-text-hover-palette-1-base,
 a.u-button-style:hover > .u-text-hover-palette-1-base[class*="u-border-"],
@@ -31344,13 +31344,13 @@ a.u-button-style.u-button-style.active > .u-text-active-palette-1-base[class*="u
 .u-button-style:hover > .u-text-hover-palette-1-base svg,
 .u-button-style.u-button-style.active > .u-text-active-palette-1-base svg,
 .u-text-hover-palette-1-base:focus svg {
-  fill: black;
+  fill: white;
 }
 .u-link.u-text-palette-1-base:hover {
-  color: #1c1d34 !important;
+  color: white !important;
 }
 a.u-link.u-text-hover-palette-1-base:hover {
-  color: black !important;
+  color: white !important;
 }
 .u-text-palette-2-dark-3,
 a.u-button-style.u-text-palette-2-dark-3,
